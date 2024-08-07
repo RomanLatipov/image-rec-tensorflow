@@ -1,4 +1,4 @@
-import tensorflow as tf, numpy as np
+import tensorflow as tf, numpy as np, cv2
 from matplotlib import pyplot as plt
 
 # print(tf.cofig.experimental.list_pysical_devices('GPU'))
